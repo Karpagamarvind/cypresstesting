@@ -13,3 +13,8 @@ let final=array.filter(score=>score%2==0).map(score=>score*3).reduce((sum,val)=>
 console.log(final)
 
 console.log(final)
+
+ckkl
+
+
+added feature branch 
